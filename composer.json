@@ -1,6 +1,6 @@
 {
     "name": "eguana/iebrasil",
-    "description": ":description",
+    "description": "Esse pacote é utilizado para formatar (Mascara) inscrições estaduais de todos os estados brasileiros.",
     "license": "license",
     "authors": [
         {
@@ -10,7 +10,7 @@
         }
     ],
     "homepage": "https://github.com/EguanaSolucoes/iebrasil",
-    "keywords": ["Laravel", "IEBrasil"],
+    "keywords": ["Laravel", "IEBrasil", "Inscrições estaduais"],
     "require": {
         "illuminate/support": "~5"
     },
