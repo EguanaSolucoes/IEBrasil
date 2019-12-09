@@ -3,7 +3,6 @@
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
 [![Build Status][ico-travis]][link-travis]
-[![StyleCI][ico-styleci]][link-styleci]
 
 Essa pacote foi densenvolvido com a intenção de auxiliar na formatação das Inscrições Estaduais de todos os estados brasileiros.
 
@@ -51,28 +50,9 @@ use Eguana\IEBrasil\Facades\IEBrasil as IEBrasil;
 
 #Result $ieFormatted: 22.449.957-2
 ```
-## Testing
-
-``` bash
-$ composer test
-```
-
-## Contributing
-
-Please see [contributing.md](contributing.md) for details and a todolist.
-
-## Security
-
-If you discover any security related issues, please email wesley@eguana.com.br instead of using the issue tracker.
-
 ## Credits
 
 - [Eguana Soluções][link-author]
-- [All Contributors][link-contributors]
-
-## License
-
-license. Please see the [license file](license.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/eguana/iebrasil.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/eguana/iebrasil.svg?style=flat-square
@@ -83,5 +63,4 @@ license. Please see the [license file](license.md) for more information.
 [link-downloads]: https://packagist.org/packages/eguana/iebrasil
 [link-travis]: https://travis-ci.org/eguana/iebrasil
 [link-styleci]: https://styleci.io/repos/12345678
-[link-author]: https://github.com/eguana
-[link-contributors]: ../../contributors
+[link-author]: https://github.com/EguanaSolucoes
