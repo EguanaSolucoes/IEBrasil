@@ -1,8 +1,11 @@
 <?php
 
 namespace Eguana\IEBrasil\Base;
-
-
+/**
+ * Class AbstractFormatter
+ * @package Eguana\IEBrasil\Base
+ * @author Wesley Serafim <wesley@eguana.com.br>
+ */
 abstract class AbstractFormatter
 {
     /**

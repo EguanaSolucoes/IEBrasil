@@ -1,11 +1,14 @@
 <?php
 
-
 namespace Eguana\IEBrasil\Entities;
-
 
 use Eguana\IEBrasil\Base\AbstractFormatter;
 
+/**
+ * Class GO
+ * @package Eguana\IEBrasil\Entities
+ * @author  wesley@eguana.com.br
+ */
 class GO extends AbstractFormatter
 {
     /**

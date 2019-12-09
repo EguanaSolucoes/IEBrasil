@@ -3,9 +3,13 @@
 
 namespace Eguana\IEBrasil\Entities;
 
-
 use Eguana\IEBrasil\Base\AbstractFormatter;
 
+/**
+ * Class DF
+ * @package Eguana\IEBrasil\Entities
+ * @author  wesley@eguana.com.br
+ */
 class DF extends AbstractFormatter
 {
     /**

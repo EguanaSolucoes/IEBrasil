@@ -1,11 +1,13 @@
 <?php
 
-
 namespace Eguana\IEBrasil\Entities;
-
 
 use Eguana\IEBrasil\Base\AbstractFormatter;
 
+/**
+ * Class MG
+ * @package Eguana\IEBrasil\Entities
+ */
 class MG extends AbstractFormatter
 {
     /**
